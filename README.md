@@ -28,4 +28,17 @@ You can click the Preview link to take a look at your changes.
 [![i18next](https://img.shields.io/badge/i18next-26A69A.svg?style=for-the-badge&logo=i18next&logoColor=white)]
 </div>
 
+<div align="center">
+
+[![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
+[![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
+[![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
+[![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
+[![Vim](https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=Vim&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
+[![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
+[![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
+![MacOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
+</div>
+
 </div>

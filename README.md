@@ -1,3 +1,4 @@
+<h2 align="left" >About me</h2>
 
 - 👋 Hi, I’m Alice
 - 👀 I’m interested in software and web development
@@ -9,12 +10,15 @@ allihive/allihive is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="left" >Stack</h3>
+<h2 align="left" >Stack</h2>
+<b>Languages</b>
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+<b>Tools</b>
 
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
@@ -28,10 +32,10 @@ You can click the Preview link to take a look at your changes.
 ![i18next](https://img.shields.io/badge/i18next-26A69A.svg?style=for-the-badge&logo=i18next&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-<h3>Projects</h3>
+<h2>Projects</h2>
 <b>Full Stack Projects </b>
 
-  - [Pong Game](https://github.com/allihive/ft_transcendence) full stack project, contributed to front end, API integration, and created design in Figma
+  - [Pong Game](https://github.com/allihive/ft_transcendence) play matches and tournaments with friends! Contributed to front end, API integration, and created design in Figma
 
 <b>C Projects</b>
   - [Minishell](https://github.com/allihive/minishell) created a miniature bash shell

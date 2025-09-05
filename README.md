@@ -1,7 +1,7 @@
 <h2 align="left" >About me</h2>
 
 - 👋 Hi, I’m Alice
-- 👀 I’m interested in software and web development
+- 👀 I’m interested in software development
 - 🌱 I’ve recently finished the curriculum at [Hive Helsinki](https://www.hive.fi/en/) a [42 school](https://42.fr/en/homepage/)
 - 📫 How to reach me [LinkedIn](www.linkedin.com/in/alicelimaunumaki) or email: aliceli.bls@gmail.com
 

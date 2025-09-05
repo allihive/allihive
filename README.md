@@ -40,6 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 <b>C Projects</b>
   - [Minishell](https://github.com/allihive/minishell) created a miniature bash shell
+  - [Cut3D](https://github.com/allihive/cub3d) a 3D maze written in C using raycasting techniques
   - [so_long](https://github.com/allihive/so_long) a 2D game similar to snake or PacMan but **Taylor Swift's* version
     
 <b>C++ Projects</b>
